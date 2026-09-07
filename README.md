@@ -89,10 +89,10 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 
 <p align="center">
   <a href="https://github.com/grover-dev86/restaurante-pos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grover-dev86&repo=restaurante-pos&theme=tokyonight" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=grover-dev86&repo=restaurante-pos&theme=tokyonight" />
   </a>
   <a href="https://github.com/grover-dev86/trackings-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grover-dev86&repo=trackings-react&theme=tokyonight" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=grover-dev86&repo=trackings-react&theme=tokyonight" />
   </a>
 </p>
 

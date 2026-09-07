@@ -43,16 +43,25 @@ Aquí describe brevemente qué estás aprendiendo, en qué proyectos has trabaja
 ---
 
 <!-- 🎯 MEJORA 4: Tecnologías organizadas por categoría (como Fiama, pero con TU stack) -->
-## 🛠️ Tecnologías que conozco
+## 🛠️ Stack Tecnológico
 
 ### Lenguajes
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks y Librerías
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-<!-- Añade más cuando aprendas: Next.js, Tailwind, etc. -->
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Plataformas y CMS
+![VTEX](https://img.shields.io/badge/VTEX_IO-%23F71963.svg?style=for-the-badge&logo=vtex&logoColor=white)
+![Liferay](https://img.shields.io/badge/Liferay-%230B5FFF.svg?style=for-the-badge&logo=liferay&logoColor=white)
+
+### APIs
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%230096D6.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Herramientas
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)

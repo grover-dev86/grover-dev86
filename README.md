@@ -108,12 +108,12 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grover-dev86&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grover-dev86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[TU_USUARIO]&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=grover-dev86&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

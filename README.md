@@ -25,7 +25,7 @@
 - 🎯 Mi meta para 2026: **[ej: dominar React y conseguir mi primer trabajo como dev]**
 - 💬 Pregúntame sobre: **HTML, CSS, JavaScript y React**
 - ⚡ Dato curioso: **[algo divertido sobre ti]**
-- 📫 Contacto: **[tu-email@ejemplo.com]**
+- 📫 Contacto: **[elvis.cristobal.garrido@gmail.com]**
 
 ---
 

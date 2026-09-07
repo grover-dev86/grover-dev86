@@ -50,6 +50,7 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 ### Frameworks y Librerías
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Plataformas y CMS
 ![VTEX](https://img.shields.io/badge/VTEX_IO-%23F71963.svg?style=for-the-badge&logo=vtex&logoColor=white)
@@ -58,6 +59,10 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 ### APIs
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%230096D6.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### API Testing
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?...)
+![Insomnia](https://img.shields.io/badge/Insomnia-%235849BE.svg?...)
 
 ### Herramientas
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)

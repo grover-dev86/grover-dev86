@@ -20,11 +20,9 @@
 <!-- 🎯 MEJORA 2: Sección "Sobre mí" con estado actual (perfil vivo, no abandonado) -->
 ## 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en: **[nombre de tu proyecto actual]**
-- 🌱 Estoy aprendiendo: **React, JavaScript, HTML y CSS**
-- 🎯 Mi meta para 2026: **[ej: dominar React y conseguir mi primer trabajo como dev]**
-- 💬 Pregúntame sobre: **HTML, CSS, JavaScript y React**
-- ⚡ Dato curioso: **[algo divertido sobre ti]**
+Soy **Desarrollador Frontend** enfocado en la creación de interfaces web funcionales, escalables y optimizadas. Me especializo en **maquetación, integración con APIs y mantenimiento de sitios web**, aplicando tecnologías modernas como React, Next.js y TypeScript.
+
+También tengo experiencia trabajando con el CMS **Liferay** y la plataforma de comercio electrónico **VTEX IO**, lo que me permite desarrollar tiendas online personalizadas, adaptadas a distintas necesidades de negocio.
 - 📫 Contacto: **[elvis.cristobal.garrido@gmail.com]**
 
 ---

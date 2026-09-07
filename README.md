@@ -31,7 +31,7 @@ También tengo experiencia trabajando con el CMS **Liferay** y la plataforma de 
 ## 🎓 Mi formación
 
 ### Técnico en Computación e Informática
-Institulo Superior Tecnológico "San Ignacio de Monterrido"
+Institulo Superior Tecnológico "San Ignacio de Monterrico"
 
 Durante mi formación adquirí conocimientos sólidos en desarrollo web, programación orientada a objetos, bases de datos y trabajo en equipo. 
 Participé en proyectos colaborativos que me permitieron aplicar la teoría en soluciones reales, desarrollando habilidades tanto técnicas como de comunicación.

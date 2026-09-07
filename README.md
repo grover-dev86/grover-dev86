@@ -32,8 +32,8 @@
 <!-- 🎯 MEJORA 3: Sección de formación clara -->
 ## 🎓 Mi formación
 
-### [Nombre de tu carrera o curso]
-[Universidad, bootcamp o plataforma donde estudias/estudiaste]
+### Técnico en Computación e Informática
+Institulo Superior Tecnológico "San Ignacio de Monterrido"
 
 Aquí describe brevemente qué estás aprendiendo, en qué proyectos has trabajado, y qué habilidades has desarrollado. Ejemplo:
 

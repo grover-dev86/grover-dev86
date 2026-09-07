@@ -139,7 +139,7 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 
 <!-- Contador de visitas (opcional) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=grover-dev86&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">

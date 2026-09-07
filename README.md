@@ -122,10 +122,10 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 ## 🌐 Ponte en contacto conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/[tu-usuario-linkedin]">
+  <a href="https://www.linkedin.com/in/grover-cristobal-2130b4294/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[tu-email@ejemplo.com]">
+  <a href="mailto:elvis.cristobal.garrido@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Descomenta si tienes portafolio web:

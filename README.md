@@ -88,11 +88,11 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 -->
 
 <p align="center">
-  <a href="https://github.com/[TU_USUARIO]/[nombre-repo-1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[nombre-repo-1]&theme=tokyonight" />
+  <a href="https://github.com/grover-dev86/restaurante-pos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grover-dev86&repo=restaurante-pos&theme=tokyonight" />
   </a>
-  <a href="https://github.com/[TU_USUARIO]/[nombre-repo-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO]&repo=[nombre-repo-2]&theme=tokyonight" />
+  <a href="https://github.com/grover-dev86/trackings-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grover-dev86&repo=trackings-react&theme=tokyonight" />
   </a>
 </p>
 
@@ -108,8 +108,8 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grover-dev86&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grover-dev86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=grover-dev86&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grover-dev86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">

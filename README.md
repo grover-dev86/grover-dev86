@@ -125,8 +125,8 @@ Participé en proyectos colaborativos que me permitieron aplicar la teoría en s
   <a href="https://www.linkedin.com/in/grover-cristobal-2130b4294/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:elvis.cristobal.garrido@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=elvis.cristobal.garrido@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Elvis" />
   </a>
   <!-- Descomenta si tienes portafolio web:
   <a href="https://[tu-portafolio.com]">

@@ -33,10 +33,8 @@ También tengo experiencia trabajando con el CMS **Liferay** y la plataforma de 
 ### Técnico en Computación e Informática
 Institulo Superior Tecnológico "San Ignacio de Monterrido"
 
-Aquí describe brevemente qué estás aprendiendo, en qué proyectos has trabajado, y qué habilidades has desarrollado. Ejemplo:
-
-> Estoy formándome como desarrollador frontend, con foco en React y JavaScript.
-> He trabajado en proyectos personales para aplicar mis conocimientos de forma práctica.
+Durante mi formación adquirí conocimientos sólidos en desarrollo web, programación orientada a objetos, bases de datos y trabajo en equipo. 
+Participé en proyectos colaborativos que me permitieron aplicar la teoría en soluciones reales, desarrollando habilidades tanto técnicas como de comunicación.
 
 ---
 
